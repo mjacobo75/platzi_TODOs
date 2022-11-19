@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/platzi_TODOs/static/css/main.f5195d15.css",
+    "main.js": "/platzi_TODOs/static/js/main.46d098ea.js",
+    "index.html": "/platzi_TODOs/index.html",
+    "static/media/rectangle-xmark.svg": "/platzi_TODOs/static/media/rectangle-xmark.d2f0f1a5bc6bd1e0c3f544fd57504f83.svg",
+    "static/media/checkbox.svg": "/platzi_TODOs/static/media/checkbox.66cf1005d431aa2215590bae0457ce3f.svg",
+    "main.f5195d15.css.map": "/platzi_TODOs/static/css/main.f5195d15.css.map",
+    "main.46d098ea.js.map": "/platzi_TODOs/static/js/main.46d098ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5195d15.css",
+    "static/js/main.46d098ea.js"
+  ]
+}
